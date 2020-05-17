@@ -1,5 +1,7 @@
 # Unit 11 Express Homework: Note Taker
 
+## Deloyment: https://note-takerrut.herokuapp.com/
+
 ## Description
 
 Create an application that can be used to write, save, and delete notes. This application will use an express backend and save and retrieve note data from a JSON file.
@@ -73,4 +75,4 @@ You are required to submit the following:
 * The URL of the GitHub repository
 
 - - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+
